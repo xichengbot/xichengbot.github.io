@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>jvm on 曦程N散記</title>
-    <link>http://xicheng.cn/tags/jvm/</link>
+    <link>https://xichengbot.github.io/tags/jvm/</link>
     <description>Recent content in jvm on 曦程N散記</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <lastBuildDate>Mon, 20 Jan 2020 15:31:31 +0800</lastBuildDate>
     
-	<atom:link href="http://xicheng.cn/tags/jvm/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://xichengbot.github.io/tags/jvm/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Jvm</title>
-      <link>http://xicheng.cn/post/jvm/</link>
+      <link>https://xichengbot.github.io/post/jvm/</link>
       <pubDate>Mon, 20 Jan 2020 15:31:31 +0800</pubDate>
       
-      <guid>http://xicheng.cn/post/jvm/</guid>
+      <guid>https://xichengbot.github.io/post/jvm/</guid>
       <description>年</description>
     </item>
     
