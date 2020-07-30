@@ -1,6 +1,19 @@
 <search>
     
      <entry>
+        <title>2020/07/26日记</title>
+        <url>https://xichengbot.github.io/post/20200726/</url>
+        <categories>
+          <category>感想</category><category>日记</category>
+        </categories>
+        <tags>
+          <tag>感悟</tag>
+        </tags>
+        <content type="html"> 今天阳阳一本正经的问我说：“爸爸你在北京想我吗？”，现在的孩子懂得好多啊
+</content>
+    </entry>
+    
+     <entry>
         <title>2020 Plan</title>
         <url>https://xichengbot.github.io/post/2020-plan/</url>
         <categories>
@@ -14,10 +27,10 @@
     </entry>
     
      <entry>
-        <title>Jvm</title>
+        <title>JVM</title>
         <url>https://xichengbot.github.io/post/jvm/</url>
         <categories>
-          <category>技术</category>
+          <category>技术</category><category>读书</category>
         </categories>
         <tags>
           <tag>jvm</tag><tag>java</tag>
